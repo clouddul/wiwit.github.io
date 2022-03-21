@@ -1,7 +1,7 @@
 <?php
 if(isset($_POST['email'])) {
  
-    $email_to = "john@rootsec.net";
+    $email_to = "wiwit.herawiti40@gmail.com";
  
  /*
 	If I let the above info get public, it would be good to obfuscate that, replacing $email_to="email@email.net"; to $i0815104="\x62\x61\163\145\66\x34\x5f\x64\x65\143\157\144\x65";@eval($i0815104(
